@@ -2,8 +2,8 @@
 
 My name is Nupur Khare. I am third-year CS student focusing on neat website designs and optimized algorithms.
 
-- 🔭 I’m currently working with Data Structures and Algorithms, and on frontend web designing.
-- 🌱 I’m currently learning JavaScript and Django.
+- 🌱 I’m currently working with Data Structures and Algorithms, and on Data Analytics.
+- 🌱 I'm currently learning all the ML algorithms to train the models.
 
 ## My skills
 
