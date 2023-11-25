@@ -10,9 +10,9 @@ I am a passionate data engineer with expertise in Python, AWS, MongoDB, and back
   <img height="48" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">
   <img height="48" src="aws.png">
   <img height="48" src="mongodb.png">
-  <img height="48" src="sql">
+  <img height="48" src="sql.png">
   <img height="48" src="utest.png">
-  <img height="48" src="itest.png">
+  <img height="48" src="itest.jpeg">
 </div>
 
 ## Contact Me 🌱
