@@ -1,22 +1,22 @@
-### Hi there 👋
+# Hi there 👋
 
-My name is Nupur Khare. I am a CS graduate focusing on neat website designs and optimized algorithms.
+## About Me 🌱
 
-- 🌱 I am a data engineer with proficiency in Python, AWS, MongoDB, and backend development. My expertise lies in leveraging Python for data processing and analysis, utilizing AWS services to build scalable and efficient data pipelines, and employing MongoDB for robust and flexible data storage solutions. Additionally, I have a strong background in backend development, allowing me to create and optimize systems that seamlessly handle large volumes of data. My skill set enables me to design and implement data solutions that meet the complex requirements of modern applications and contribute to the overall success of data-driven projects.
+I am a passionate data engineer with expertise in Python, AWS, MongoDB, and backend development. My skills encompass utilizing Python for data processing, leveraging AWS services to build scalable data pipelines, and implementing MongoDB for robust data storage solutions. With a strong background in backend development, I specialize in creating and optimizing systems capable of handling large volumes of data. My goal is to design and implement effective data solutions that align with the complex requirements of modern applications, contributing to the success of data-driven projects.
 
-## My skills
+## Skills 🌱
 
 <div>
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png">
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  <img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
-  
+  <img height="48" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png">
+  <img height="48" src="aws.png">
+  <img height="48" src="mongodb.png">
+  <img height="48" src="sql">
+  <img height="48" src="utest.png">
+  <img height="48" src="itest.png">
 </div>
 
-## Contact me
-[email](nupur15june@gmail.com)
+## Contact Me 🌱
+
+- **Email:** [Mail](nupur15june@gmail.com)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/nupur-k-972112135/)
+- **GitHub:** [GitHub Profile](https://github.com/nupur-khare)
